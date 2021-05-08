@@ -5,3 +5,7 @@ Las estructuras de datos son tipos de datos abstractos que nos permiten organiza
 ## Arreglos
 
 Son estructuras de datos conformadas por direcciones de memoria contiguas y estáticas en las que introducir datos del mismo tipo.
+
+## Listas enlazadas 
+
+Son estructuras de datos que reparten espacios de memoria no contiguos.
